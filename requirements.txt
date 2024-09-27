@@ -12,6 +12,7 @@ gast
 google-auth
 google-auth-oauthlib
 google-pasta
+gunicorn
 grpcio
 h5py
 idna
